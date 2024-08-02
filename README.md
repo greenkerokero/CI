@@ -1,2 +1,1 @@
-![hello-world](https://github.com/greenkerokero/CI/actions/workflows/hello-world.yml/badge.svg)
-[![hello-world](https://github.com/greenkerokero/CI/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/greenkerokero/CI/actions)
+[![hello-world](https://github.com/greenkerokero/CI/actions/workflows/hello-world.yml/badge.svg)](https://github.com/greenkerokero/CI/actions)
